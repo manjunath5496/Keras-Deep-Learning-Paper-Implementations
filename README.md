@@ -5,32 +5,32 @@
 
 <ul>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(1).pdf" style="text-decoration:none;">The memory game</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(1).pdf" style="text-decoration:none;">Very Deep Convolutional Networks for Large-Scale Image Recognition</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(2).pdf" style="text-decoration:none;">The algorithmic analysis of hybrid systems</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(2).pdf" style="text-decoration:none;">Image Super-Resolution Using Deep Convolutional Networks</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(3).pdf" style="text-decoration:none;">Some simplified NP-complete graph problems </a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(4).pdf" style="text-decoration:none;">The Euclidean travelling salesman problem is NP-complete</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(3).pdf" style="text-decoration:none;">Time-series modeling with undecimated fully convolutional neural networks </a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(4).pdf" style="text-decoration:none;">Rethinking the Inception Architecture for Computer Vision</a></b></li>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(5).pdf" style="text-decoration:none;">The complexity of computing the permanent </a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(5).pdf" style="text-decoration:none;">Deep Residual Learning for Image Recognition </a></b></li>  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(6).pdf" style="text-decoration:none;">Clustering to minimize the maximum intercluster distance </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(6).pdf" style="text-decoration:none;">Perceptual Losses for Real-Time Style Transfer and Super-Resolution </a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(7).pdf" style="text-decoration:none;">Linear logic </a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(7).pdf" style="text-decoration:none;">WaveNet: A Generative Model for Raw Audio </a></b></li>
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(8).pdf" style="text-decoration:none;">Approximate string-matching with q-grams and maximal matches</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(9).pdf" style="text-decoration:none;">A theory of timed automata</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(8).pdf" style="text-decoration:none;">Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(9).pdf" style="text-decoration:none;">Xception: Deep Learning with Depthwise Separable Convolutions</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(10).pdf" style="text-decoration:none;">Complexity measures and decision tree complexity: a survey</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(10).pdf" style="text-decoration:none;">Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences</a></b></li>  
                                              
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(11).pdf" style="text-decoration:none;">2D knapsack: Packing squares</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(11).pdf" style="text-decoration:none;">Image-to-Image Translation with Conditional Adversarial Networks</a></b></li>
 
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(12).pdf" style="text-decoration:none;">Algorand: A secure and efficient distributed ledger</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Most-Popular-Theoretical-Computer-Science-Articles/blob/master/tcs(13).pdf" style="text-decoration:none;">Decision tree approximations of Boolean functions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(12).pdf" style="text-decoration:none;">ImageNet Classification with Deep Convolutional Neural Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Keras-Deep-Learning-Paper-Implementations/blob/master/kdp(13).pdf" style="text-decoration:none;">Image Style Transfer Using Convolutional Neural Networks</a></b></li>
 
 
 </ul>
